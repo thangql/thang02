@@ -1,6 +1,10 @@
 h1,
 p {
   color: brown;
+  -webkit-user-select: none;
+     -moz-user-select: none;
+      -ms-user-select: none;
+          user-select: none;
 }
 h2{
     color: darkblue;
