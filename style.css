@@ -7,8 +7,18 @@ p {
           user-select: none;
 }
 h2{
-    color: darkblue;
+    color: rgb(241, 6, 6);
 }
 body {
   background: url(assets/img/istockphoto-2161298305-612x612.webp);
 }
+.html{
+  color: darkgrey;
+  font-size: 20px;
+
+}
+#mfvx_4{
+  font-size: 15px;
+
+}
+
