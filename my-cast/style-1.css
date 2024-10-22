@@ -1,10 +1,17 @@
 h1,
-p {
-  color: brown;
+p,
+ul {
+  color: rgb(250, 247, 247);
 }
-h2{
-    color: darkblue;
+h2 {
+  color: darkblue;
 }
 body {
-  background: url(assets/img/istockphoto-2161298305-612x612.webp);
+  background: url(/assets/img/istockphoto-2161298305-612x612.webp);
+}
+#mxay-1 {
+  background: url(https://malta.vn/wp-content/uploads/2022/06/HUE-CITADEL-02-1.jpg);
+}
+.img{
+  color: rgb(0, 0, 0);
 }
